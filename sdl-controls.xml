@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+
+<dpad x="10" y="300" width="128" height="128">
+<label x="0" y="0" width="128" height="128" image="dpad.png"/>
+</dpad>
+
+<key x="100" y="350" width="48" height="48" sym="13" scancode="13">
+<label x="0" y="0" width="48" height="48" image="fire.png"/>
+</key>
+
+<key x="100" y="220" width="48" height="48" sym="32" scancode="32">
+<label x="0" y="0" width="48" height="48" image="fire.png"/>
+</key>
+
+
+<key x="64" y="0" width="64" height="32" sym="282" scancode="282">
+<label x="0" y="0" width="64" height="32"/>
+</key>
+
+<key x="128" y="0" width="64" height="32" sym="283" scancode="283">
+<label x="0" y="0" width="64" height="32" image="oldtelly.png"/>
+</key>
+
+<key x="192" y="0" width="64" height="32" sym="284" scancode="284">
+<label x="0" y="0" width="64" height="32" image="oldtelly.png"/>
+</key>
+
+<key x="155" y="0" width="64" height="32" sym="285" scancode="285">
+<label x="0" y="0" width="64" height="32" image="oldtelly.png"/>
+</key>
+
+<key x="175" y="0" width="64" height="32" sym="286" scancode="286">
+<label x="0" y="0" width="64" height="32" image="oldtelly.png"/>
+</key>
+
+<key x="180" y="0" width="64" height="32" sym="287" scancode="285">
+<label x="0" y="0" width="64" height="32" image="oldtelly.png"/>
+</key>
+
+
+<key x="0" y="0" width="64" height="64" sym="27" scancode="27"/>
+
+</emulation>
